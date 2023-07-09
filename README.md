@@ -14,8 +14,7 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 1. Color Flipper
 2. Counter
-3. Reviews
-4. Navbar
+3. Reviewsgdgdfgdf
 5. Sidebar
 6. Modal
 7. Questions
